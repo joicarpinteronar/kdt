@@ -45,8 +45,10 @@ Para usar este marco, edite el archivo FirstSuite.xls, proporcione el nombre del
 
 5. Con los keyword click y EnterText podra empezar a realizar en secuencia las acciones que realizara el test.
 
-6. Dentro de la columna inputData se ingresara la el texto que deba digitar las keyword EnterText.
+6. https://teams.microsoft.com/meet/23297022523709?p=78TqD9Dh8zwcLHITZE
 
-7. Una vez finalizada se ejecutara un cmd dentro de la carpeta del framework y digitara mvn clean test para que el test se ejecute.
+7. Dentro de la columna inputData se ingresara la el texto que deba digitar las keyword EnterText.
 
-8. Al finalizarse el test dentro de la carpeta Reports se encontra un html el cual nos mostrara el resultado del test ejecutado.
+8. Una vez finalizada se ejecutara un cmd dentro de la carpeta del framework y digitara mvn clean test para que el test se ejecute.
+
+9. Al finalizarse el test dentro de la carpeta Reports se encontra un html el cual nos mostrara el resultado del test ejecutado.
