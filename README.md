@@ -31,7 +31,7 @@ Para usar este marco, edite el archivo FirstSuite.xls, proporcione el nombre del
 1. Java version: 11.0.6
 
 2. Apache Maven 3.6.3
-
+Unirse: https://teams.microsoft.com/meet/23297022523709?p=78TqD9Dh8zwcLHITZE
 
 #Ejecución
 
