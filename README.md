@@ -52,3 +52,5 @@ Unirse: https://teams.microsoft.com/meet/23297022523709?p=78TqD9Dh8zwcLHITZE
 8. Una vez finalizada se ejecutara un cmd dentro de la carpeta del framework y digitara mvn clean test para que el test se ejecute.
 
 9. Al finalizarse el test dentro de la carpeta Reports se encontra un html el cual nos mostrara el resultado del test ejecutado.
+
+10.  https://teams.microsoft.com/meet/238133807494530?p=wlYf1VFnCzrwn08EKN 
